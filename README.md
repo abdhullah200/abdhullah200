@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Angular**
 - 👨‍💻 All of my projects are available at [abdhullahariffdev.vercel.app](https://abdhullahariffdev.vercel.app/)
 - 📫 How to reach me: **abdhullahariff118@gmail.com**
-- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1p1O3VtsKAeIj76yJohx5Vrp6sCNLuyhe/view?usp=sharing](https://drive.google.com/file/d/1cTu0hFSnMEEXVXVkMLARLz1rYfNIESGW/view))
+- 📄 Know about my experiences: [Resume]((https://drive.google.com/file/d/1cTu0hFSnMEEXVXVkMLARLz1rYfNIESGW/view))
 - 💼 **Open to Work:** Actively looking for opportunities in Full Stack Development, Angular, Node.js, and related fields
 
 <h3 align="left">Connect with me:</h3>
