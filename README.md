@@ -44,7 +44,7 @@
 ---
 
 ## 📊 GitHub Analytics  
-
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdhullah200&show_icons=true&theme=radical&hide_border=true&background=0D1117" alt="GitHub stats" height="180"/>
 </p>
 
