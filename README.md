@@ -184,7 +184,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40%">
   <br>
   <br>
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
