@@ -37,6 +37,15 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </div>
 
+### 🖥️ **Xynraco** - Browser-Based IDE
+> Full-stack web IDE with AI assistance | **Next.js 15, TypeScript, Monaco Editor, WebContainers, NVIDIA NIM, Docker**
+- ⚡ Real-time code execution via WebContainers with 6 framework templates (React, Next.js, Express, Vue, Hono, Angular)
+- 🤖 AI-powered code suggestions and chat using NVIDIA-hosted LLMs through an OpenAI-compatible API
+- 🔧 Integrated xterm.js terminal, live preview panel, and GitHub repository import
+- 🚀 Production-deployed on Vercel with a GitHub Actions CI/CD pipeline enforcing lint, typecheck, and build gates
+
+🌐 **[Live Demo](https://xynraco.vercel.app)** | 📂 **[Source Code](https://github.com/abdhullah200/Xynraco)**
+
 ### 🎓 **ThoutEdxa** - AI Tutoring Platform
 > Personalized learning powered by AI | **MERN Stack, TensorFlow, Firebase, Docker**
 - 🤖 Smart content recommendations using ML algorithms
