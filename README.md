@@ -166,10 +166,6 @@
 
 <div align="center">
 
-## 🎖️ Certifications & Achievements
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
-
 <br><br>
 
 <table>
