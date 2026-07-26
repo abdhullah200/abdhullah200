@@ -164,14 +164,79 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
 </div>
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
-| 🎓 **CS50: Introduction to Computer Science** | Harvard University | 2024 |
-| ⚛️ **React Basics & Intermediate** | LinkedIn Learning | 2024 |
-| ☕ **Java Programming** | HackerRank | 2024 |
-| 🗄️ **SQL (Advanced)** | HackerRank | 2024 |
-| 💻 **Hack This Fall Hackathon** | Top 50 Teams | 2024 |
-| 🎨 **IX24 Designathon** | UI/UX Excellence | 2024 |
+<div align="center">
+
+## 🎖️ Certifications & Achievements
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+
+<br><br>
+
+<table>
+  <tr>
+    <th>Certification</th>
+    <th>Issuer</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td>🎓 <b>CS50: Introduction to Computer Science</b></td>
+    <td>Harvard University</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>⚛️ <b>React Basics & Intermediate</b></td>
+    <td>LinkedIn Learning</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>☕ <b>Java Programming</b></td>
+    <td>HackerRank</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>SQL (Advanced)</b></td>
+    <td>HackerRank</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>💻 <b>Hack This Fall Hackathon</b></td>
+    <td>Top 50 Teams</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>IX24 Designathon</b></td>
+    <td>UI/UX Excellence</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Claude Code in Action</b></td>
+    <td>Anthropic</td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td>🍃 <b>MongoDB Basics for Students</b></td>
+    <td>MongoDB</td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td><b>Deploying ASP.NET Core Applications</b></td>
+    <td>LinkedIn Learning</td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td>🐳 <b>Learning Docker</b></td>
+    <td>LinkedIn Learning</td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td><b>Derive Insights from BigQuery Data Skill Badge</b></td>
+    <td>Google Cloud</td>
+    <td>2025</td>
+  </tr>
+</table>
+
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
