@@ -29,7 +29,19 @@
 - 🌐 Portfolio: **[abdhullahariffdev.vercel.app](https://abdhullahariffdev.vercel.app/)**  
 - 📄 Resume: **[View My Journey](https://drive.google.com/file/d/1cTu0hFSnMEEXVXVkMLARLz1rYfNIESGW/view)**  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br clear="right"/>
+
+## 💼 Work Experience
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXdhdzZtM3B2OGN2OTV0c250NTlwdDQ0bm9qZXNkNDl0bnI5ajR1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWybLzXs7Hn0JKhSji/giphy.gif">
+
+**Junior Full-Stack Developer** @ Waterlily Labs *Colombo, Sri Lanka*
+- Building **CCMS**, a production housing and lettings management system used by real estate operators
+- **Stack:** ASP.NET MVC, C#, SQL Server, Razor Views
+- Wrote MSTest integration test suites across repository and service layers, covering safeguarding, documents, certificates, notifications, and incident tracking
+- Shipped features across the booking, occupant management, and tenant onboarding modules including duplicate validation, bulk certificate email flows, and new UI components for the service user detail view
+- Promoted from intern to full-time in 2026
+<br clear="right"/>
+
 
 ## 🚀 Featured Projects
 
@@ -46,17 +58,29 @@
 
 🌐 **[Live Demo](https://xynraco.vercel.app)** | 📂 **[Source Code](https://github.com/abdhullah200/Xynraco)**
 
-### 🎓 **ThoutEdxa** - AI Tutoring Platform
-> Personalized learning powered by AI | **MERN Stack, TensorFlow, Firebase, Docker**
-- 🤖 Smart content recommendations using ML algorithms
-- 🔐 Secure authentication & real-time progress tracking
-- 📊 Analytics dashboard for educators
+---
 
-### 🛍️ **Vervida Online Store** - E-Commerce Solution
-> Modern shopping experience | **React, ASP.NET Core, SQL Server**
-- ⚡ Lightning-fast search with real-time filtering
-- 💳 Secure payment integration
-- 📱 Fully responsive design
+### 📱 **LUME** - Social Media Web App
+> Frontend-first social platform for posts, stories & reels | **ASP.NET Razor, C#, Tailwind CSS, UIkit** · 🚧 *In Progress*
+- 📸 Scrollable post feed with like/comment/share UI and detail view
+- 🟣 Full-screen story viewer with progress bars and story ring UI
+- 🎬 Vertical swipe-based reels feed
+- ⬆️ Unified upload flow across posts, stories, and reels
+- 🏗️ Being built in two phases: frontend MVP first (Razor + Tailwind + UIkit, mock data), backend (auth, SQL Server, media storage, real feed data) coming soon
+
+📂 **[Source Code](https://github.com/abdhullah200/LUME)**
+
+---
+
+### 🎮 **Zero Arena** - 3D Interactive Demo
+> Immersive web experience | **Spline, Framer Motion, Three.js**
+- 🌟 3D animations & physics
+- 🎭 Interactive storytelling
+
+
+<details>
+<summary><b>📦 Other Projects</b></summary>
+<br>
 
 ### 🎵 **Spotify Clone** - Music Streaming UI
 > Sleek music player interface | **React, TailwindCSS, Context API**
@@ -73,12 +97,7 @@
 - 📊 Click analytics & tracking
 - 🎯 Custom short links
 
-### 🎮 **Zero Arena** - 3D Interactive Demo
-> Immersive web experience | **Spline, Framer Motion, Three.js**
-- 🌟 3D animations & physics
-- 🎭 Interactive storytelling
-
-📌 **[Explore All Projects →](https://github.com/abdhullah200?tab=repositories)**
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
