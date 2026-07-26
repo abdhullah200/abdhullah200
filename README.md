@@ -32,7 +32,7 @@
 <br clear="right"/>
 
 ## 💼 Work Experience
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXdhdzZtM3B2OGN2OTV0c250NTlwdDQ0bm9qZXNkNDl0bnI5ajR1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWybLzXs7Hn0JKhSji/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXdhdzZtM3B2OGN2OTV0c250NTlwdDQ0bm9qZXNkNDl0bnI5ajR1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWybLzXs7Hn0JKhSji/giphy.gif">
 
 **Junior Full-Stack Developer** @ Waterlily Labs *Colombo, Sri Lanka*
 - Building **CCMS**, a production housing and lettings management system used by real estate operators
@@ -76,7 +76,7 @@
 > Immersive web experience | **Spline, Framer Motion, Three.js**
 - 🌟 3D animations & physics
 - 🎭 Interactive storytelling
-
+🌐 **[Live Demo](https://github.com/abdhullah200/PageTurnerLoginSignUp)** | 📂 **[Source Code](https://github.com/abdhullah200/zero-arena)**
 
 <details>
 <summary><b>📦 Other Projects</b></summary>
