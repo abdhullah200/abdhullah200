@@ -151,8 +151,9 @@
 </div>
 
 <div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdhullah200&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true)
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=abdhullah200&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdhullah200&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9"/>
 
 </div>
 
