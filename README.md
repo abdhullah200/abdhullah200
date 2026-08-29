@@ -26,7 +26,7 @@
 - 🎯 Specialized in **Full Stack Development, DevOps & Cloud Architecture**
 - 💼 Open to **internships, collaborations & exciting projects**
 - 💡 Passionate about solving real-world problems through **innovative tech solutions**
-- 🌐 Portfolio: **[abdhullahariffdev.vercel.app](https://abdhullahariffdev.vercel.app/)**  
+- 🌐 Portfolio: **[abdhullahariffdev.vercel.app](https://abdhullahariffdev.vercel.app/)** 
 - 📄 Resume: **[View My Journey](https://drive.google.com/file/d/1cTu0hFSnMEEXVXVkMLARLz1rYfNIESGW/view)**  
 
 <br clear="right"/>
