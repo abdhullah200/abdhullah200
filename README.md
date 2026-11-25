@@ -40,8 +40,6 @@
 - Working alongside experienced engineers and collaborating within an established software development environment.
 - Learning enterprise engineering practices, development workflows, and collaborative software delivery.
 
-**Tech Stack:** *(To be updated as I begin working)*
-
 ---
 
 ### Junior Full-Stack Developer @ Waterlily Labs
