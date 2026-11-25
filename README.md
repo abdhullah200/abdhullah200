@@ -32,14 +32,30 @@
 <br clear="right"/>
 
 ## 💼 Work Experience
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXdhdzZtM3B2OGN2OTV0c250NTlwdDQ0bm9qZXNkNDl0bnI5ajR1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWybLzXs7Hn0JKhSji/giphy.gif">
 
-**Junior Full-Stack Developer** @ Waterlily Labs *Colombo, Sri Lanka*
-- Building **CCMS**, a production housing and lettings management system used by real estate operators
-- **Stack:** ASP.NET MVC, C#, SQL Server, Razor Views
-- Wrote MSTest integration test suites across repository and service layers, covering safeguarding, documents, certificates, notifications, and incident tracking
-- Shipped features across the booking, occupant management, and tenant onboarding modules including duplicate validation, bulk certificate email flows, and new UI components for the service user detail view
-- Promoted from intern to full-time in 2026
+### Software Engineering Intern @ Sysco LABS
+*Colombo, Sri Lanka · Nov 2026 – Present*
+
+- Joining the engineering team as a Software Engineering Intern, contributing to software development within a large-scale technology organization.
+- Working alongside experienced engineers and collaborating within an established software development environment.
+- Learning enterprise engineering practices, development workflows, and collaborative software delivery.
+
+**Tech Stack:** *(To be updated as I begin working)*
+
+---
+
+### Junior Full-Stack Developer @ Waterlily Labs
+*Colombo, Sri Lanka*
+
+- Promoted from intern to full-time developer after shipping production features for a multi-tenant property and contract management platform used by external clients.
+- Rebuilt contract and booking management interfaces in Razor, implementing per-row state handling across key client-facing screens and reducing recurring regressions.
+- Developed **RepairPortal V2**, a multi-step defect reporting workflow with dynamic filtering and modal navigation, alongside an SMTP notification pipeline for rescheduling notices with duplicate-alert prevention.
+- Built a self-service **room booking portal in CCMS**, allowing tenants to browse and book rooms with support for different pricing structures based on room and booking type.
+- Contributed across internal projects including **NPMS**, collaborated with multiple teams, reviewed pull requests, and supported onboarding and mentoring of interns.
+- Investigated production issues across the full stack, tracing problems from UI components through backend logic to stored procedures, and coordinated releases across environments with minimal supervision.
+- Participated in client meetings to gather requirements, translate them into UI and API-level changes, and communicate development progress.
+
+**Tech Stack:** ASP.NET MVC, C#, Razor, SQL Server, JavaScript, HTML/CSS, SMTP, Git
 <br clear="right"/>
 
 
